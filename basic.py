@@ -1,2 +1,3 @@
-import numpy
-a= input("Enter a:\n")
+a=input("enter a:\n")
+b=input("enter b:\n")
+print(a,b)
